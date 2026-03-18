@@ -5,6 +5,7 @@
 
 bin/
 obj/
+*.db
 
 # dotenv files
 .env
